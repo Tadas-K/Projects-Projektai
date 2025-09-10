@@ -29,13 +29,13 @@ Mano užbaigti ir vykdomi asmeniniai projektai.
 
 | Lietuviškai |  English   |
 |-------------|------------|
-| _Čia pridėsite aprašymą lietuviškai._<br><br>![Paveikslėlis](path/to/{lt}.png) | _Here you will add an English description._<br><br>![Image](path/to/{en}.png) |
+| _ _ | _ _ |
 
 ---
 
 ## Python grafinis elektronikos grandinių simuliatorius / Python graphical electronic circuit simulator
 
-|![Paveikslėlis](Nuotraukos_photos\Pyhton_grafinis_elektronikos_grandinių_simuliatorius_Python_graphical_electronic_circuit_simulator\simulation_test_1.png) | ![Paveikslėlis](Nuotraukos_photos\Pyhton_grafinis_elektronikos_grandinių_simuliatorius_Python_graphical_electronic_circuit_simulator\simulation_test_2.png) |
+|![Paveikslėlis](Nuotraukos_photos/Pyhton_grafinis_elektronikos_grandinių_simuliatorius_Python_graphical_electronic_circuit_simulator/simulation_test_1.png) | ![Paveikslėlis](Nuotraukos_photos/Pyhton_grafinis_elektronikos_grandinių_simuliatorius_Python_graphical_electronic_circuit_simulator/simulation_test_2.png) |
 |--|--|
 
 | Lietuviškai |  English   |
@@ -48,7 +48,7 @@ Mano užbaigti ir vykdomi asmeniniai projektai.
 
 | Lietuviškai |  English   |
 |-------------|------------|
-| _Čia pridėsite aprašymą lietuviškai._<br><br>![Paveikslėlis](path/to/{lt}.png) | _Here you will add an English description._<br><br>![Image](path/to/{en}.png) |
+| _ _ | _ _ |
 
 ---
 
@@ -56,7 +56,7 @@ Mano užbaigti ir vykdomi asmeniniai projektai.
 
 | Lietuviškai |  English   |
 |-------------|------------|
-| _Čia pridėsite aprašymą lietuviškai._<br><br>![Paveikslėlis](path/to/{lt}.png) | _Here you will add an English description._<br><br>![Image](path/to/{en}.png) |
+| _ _ | _ _ |
 
 ---
 
@@ -64,6 +64,6 @@ Mano užbaigti ir vykdomi asmeniniai projektai.
 
 | Lietuviškai |  English   |
 |-------------|------------|
-| _Čia pridėsite aprašymą lietuviškai._<br><br>![Paveikslėlis](path/to/{lt}.png) | _Here you will add an English description._<br><br>![Image](path/to/{en}.png) |
+| _ _ | _ _ |
 
 ---
