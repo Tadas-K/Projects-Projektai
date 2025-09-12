@@ -46,21 +46,34 @@ Mano užbaigti ir vykdomi asmeniniai projektai.
 
 ## Žaidimų_konsolė / Game_console
 
+![Paveikslėlis](Nuotraukos_photos/Žaidimų_konsolė_Game_console/pcb_front.jpg)
+![Paveikslėlis](Nuotraukos_photos/Žaidimų_konsolė_Game_console/pcb_back.jpg)
+
 | Lietuviškai |  English   |
 |-------------|------------|
-| _ _ | _ _ |
+| _Kursinis projektas - STM32F407VGT6U pagrįsta retro žaidimų konsolė, su 320x480 RGB TFT ekranu, valdomu FSMC sąsaja. Šios sąsajos kontrolei bei ekrano valdymui sukurta asmeninė biblioteka. Realizuoti 2 žaidimai: 2048 bei raketos valdymo žaidimas. Projektas tęsiamas, suprojektuota PCB, komponentai paruošti surinkimui. Kiti projekto nariai: Anicetas Č., Aleksandras Š., Mindaugas P._ | _Course project – a retro game console based on the STM32F407VGT6U, with a 320x480 RGB TFT display controlled via the FSMC interface. A custom library was developed for handling this interface and managing the display. Two games were implemented: 2048 and a rocket control game. The project is ongoing: a PCB has been designed, and the components are prepared for assembly. Other project members: Anicetas Č., Aleksandras Š., Mindaugas P._ |
+
+![Paveikslėlis](Nuotraukos_photos/Žaidimų_konsolė_Game_console/pcb.jpg)
+![Paveikslėlis](Nuotraukos_photos/Žaidimų_konsolė_Game_console/front.jpg)
 
 ---
 
 ## Kameros_robotas_v2 / Camera_robot_v2
 
+![Paveikslėlis](Nuotraukos_photos/Kameros_robotas_Camera_robot/Pcb.png)
+
+
 | Lietuviškai |  English   |
 |-------------|------------|
-| _ _ | _ _ |
+| _2 Žingsinių valdiklių bei 1 BLCD variklio FOC kontroleris su bluetooth kontrole. Valdomas per android programėlę. Turi 2 ašis: pagrindinę linijinę bei antrą vertikalią. Trečioji horizontalioji su BLCD varikliu nebaigta, nes parinktas variklis neišvystė pakankamai galios, todėl reikia atnaujinti patį kontrolerį. Projektas vystomas, testuojami naujos BLDC valdymo mikroschemos._ | _A controller for 2 stepper motors and 1 BLDC motor with FOC control, featuring Bluetooth connectivity. Controlled via an Android application. It has 2 axes: the main linear axis and a secondary vertical axis. The third horizontal axis with the BLDC motor was not completed, as the selected motor did not provide sufficient power, therefore the controller itself needs to be updated. The project is ongoing, with new BLDC control chips currently being tested._ |
+
+![Paveikslėlis](Nuotraukos_photos/Kameros_robotas_Camera_robot/realpcb.jpg)
+
+![Paveikslėlis](Nuotraukos_photos/Kameros_robotas_Camera_robot/cr.jpg)
 
 ---
 
-## MIDI_instrumentų_pėdalas / MIDI_instrument_foot_controller
+## MIDI_instrumentų_pedalas / MIDI_instrument_foot_controller
 
 | Lietuviškai |  English   |
 |-------------|------------|
