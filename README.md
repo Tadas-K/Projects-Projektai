@@ -5,6 +5,10 @@ Mano užbaigti ir vykdomi asmeniniai projektai.
 ## EKG_Signalų_procesorius / ECG_signal_processor
 ![Paveikslėlis](Nuotraukos_photos/EKG_Signalų_procesorius_ECG_signal_processor/20250515_183217.jpg)
 *Įrenginio nuotrauka - Device photo*
+
+![Paveikslėlis](Nuotraukos_photos/EKG_Signalų_procesorius_ECG_signal_processor/ekg.png)
+*Mano elektrokardiograma - My electrocardiogram*
+
 | Lietuviškai |  English   |
 |-------------|------------|
 | _Kompiuterių architektūros kursinis projektas. Sukurtas FPGA pagrįstas skaitemninis analoginio 3 laidų EKG signalo procesorius pagal Pan-Tompkins algoritmą. Prietaisas realiu laiku fiksuoja 3 laidų elektrokardiogramą, pateikia neapdorotus ir apdorotus signalų grafikų kompiuterio ekrane, o širdies ritmą atvaizduoja 7 segmentų ekrane FPGA devboard'e._ | _An FPGA-based digital processor for a 3-lead analog ECG signal was created using the Pan-Tompkins algorithm. The device records a 3-lead electrocardiogram in real time, displays both raw and processed signal graphs on a computer screen, and shows the heart rate on a 7-segment display of the FPGA development board._ |
