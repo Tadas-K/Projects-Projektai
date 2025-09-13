@@ -21,7 +21,7 @@ Mano užbaigti ir vykdomi asmeniniai projektai.
 ![Paveikslėlis](Nuotraukos_photos/FEEGUUR_žaidimas_FEEGUUR_game/Feature%20graphic.jpg)
 | Lietuviškai |  English   |
 |-------------|------------|
-| _Sukurtas Unity Android žaidimas. Žaidimo kodas parašytas C# kalba, bendra žaidimo skriptų kodo bazė ~10k eilučių. ,,FEEGUUR" pasiekiamas Google Play platformoje.<br>Nuoroda: https://play.google.com/store/apps/details?id=com.Martersa.FEEGUUR_ | _A Unity-based Android game was created. The game code is written in C#, with a total script codebase of around 10,000 lines. “FEEGUUR” is available on the Google Play platform.<br>Link: https://play.google.com/store/apps/details?id=com.Martersa.FEEGUUR_ |
+| _Sukurtas Unity Android žaidimas. Žaidimo kodas parašytas C# kalba, bendra žaidimo skriptų kodo bazė ~10k eilučių. ,,FEEGUUR" pasiekiamas Google Play platformoje.<br>Nuoroda: https://play.google.com/store/apps/details?id=com.Martersa.FEEGUUR_ | _A unity-based Android game was created. The game code is written in C#, with a total script codebase of around 10,000 lines. “FEEGUUR” is available on the Google Play platform.<br>Link: https://play.google.com/store/apps/details?id=com.Martersa.FEEGUUR_ |
 
 ---
 
@@ -29,7 +29,7 @@ Mano užbaigti ir vykdomi asmeniniai projektai.
 
 | Lietuviškai |  English   |
 |-------------|------------|
-| _ _ | _ _ |
+| _Per Wifi lokalų tinklą valdoma reflow orkaitė. Valdymas vyksta grafine vartotojo sąsaja prisijungus prie orkaitės per interneto naršyklę. Į okraitę galima įkelti temperatūrinę kreivę, kurią paleidus vykdymo komandą orkaitė atkartoja. Pagrindinis pritaikymas - SMD komponentų litavimas._ | _A reflow oven controlled via a local Wi-Fi network. Operation is managed through a graphical user interface by connecting to the oven with a web browser. A temperature profile can be uploaded to the oven, which it follows once the execution command is given. The main application is soldering SMD components._ |
 
 ---
 
@@ -77,6 +77,6 @@ Mano užbaigti ir vykdomi asmeniniai projektai.
 
 | Lietuviškai |  English   |
 |-------------|------------|
-| _ _ | _ _ |
+| _Pedalas skirtas valdyti instrumentus arba programinę įrangą kaip ,,Ableton Live" įrašymo arba gyvo muzikos atlikmo tiklsu. Pedalas turi 5 mygtukus, kurie apšviesti RGB LED juostų, indikuojančių apie mygtuko būklę - svarbu valdant besikartojančius įrašus koncerto metu. Panaudotas 3 koncertuose._ | _A pedal designed to control instruments or software such as Ableton Live for recording or live music performance. The pedal has 5 buttons illuminated by RGB LED strips, which indicate the button’s state – an important feature when managing looping tracks during a concert. It has been used in 3 concerts._ |
 
 ---
